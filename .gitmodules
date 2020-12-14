@@ -1,0 +1,3 @@
+[submodule "vendor/synthizer"]
+	path = vendor/synthizer
+	url = https://github.com/synthizer/synthizer
